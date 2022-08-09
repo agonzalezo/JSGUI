@@ -1,0 +1,24 @@
+{
+  "name": "jsgui",
+  "version": "1.0.0",
+  "description": "Scripts to manage the gui components.",
+  "main": "src/server.js",
+  "scripts": {
+    "mouse": "node src/mouse.js",
+    "key": "node src/keyboard.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agonzalezo/JSGUI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agonzalezo/JSGUI/issues"
+  },
+  "homepage": "https://github.com/agonzalezo/JSGUI#readme",
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
