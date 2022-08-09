@@ -10,7 +10,7 @@ robotjs.setKeyboardDelay(200);
     robotjs.keyTap("enter");
     robotjs.setKeyboardDelay(500);
     robotjs.keyTap("n",["control", "shift"]);
-    robotjs.typeString("Stiven gay fotos");
+    robotjs.typeString("wherever to search");
     robotjs.keyTap("enter");
     robotjs.setMouseDelay(200)
     robotjs.moveMouse(235,209);
